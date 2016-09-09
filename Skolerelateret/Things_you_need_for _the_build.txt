@@ -1,0 +1,7 @@
+List of things.
+
+- 2 DC motors.
+- 2 wheels.
+- 1 atmega2560 chip.
+- 4 infer red sensors.
+- battery pack. 
